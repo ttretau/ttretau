@@ -8,4 +8,4 @@
 &nbsp;&nbsp;&nbsp;:construction_worker: &nbsp;Currently working mostly with Kubernetes, Python & AWS.\
 &nbsp;&nbsp;&nbsp;:house_with_garden: &nbsp;Enjoying home automation in my spare time with [Home Assistant](https://www.home-assistant.io/) on Kubernetes & tools.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Always interested in OSS and collaboration.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 1999 with various experiences in enterprise software development.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 1999 with various experiences in enterprise software development.
